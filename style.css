@@ -1,0 +1,10 @@
+.main_title{
+
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    background-color: #ffeb00;
+    display: block;
+}
